@@ -81,3 +81,6 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+
+# Project Secrets
+appsettings.json
